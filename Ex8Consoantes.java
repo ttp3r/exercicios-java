@@ -36,7 +36,7 @@ public class Ex8Consoantes {
             if (consoante != null)
                 System.out.print(consoante + " ");            
          }
-                 System.out.println("\nQuantidade de consoantes: " + quantidadeConsoantes);
+         System.out.println("\nQuantidade de consoantes: " + quantidadeConsoantes);
 
     }
 }
